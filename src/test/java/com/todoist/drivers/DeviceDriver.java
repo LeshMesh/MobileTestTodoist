@@ -6,6 +6,6 @@ public class DeviceDriver {
         if ("browserstack".equals(deviceHost)) {
             return BrowserstackMobileDriver.class.getName();
         }
-        throw new RuntimeException("Select device: browserstack / emulation / real");
+        throw new RuntimeException("Select device: browserstack");
     }
 }
