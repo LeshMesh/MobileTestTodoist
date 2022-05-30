@@ -51,7 +51,7 @@ gradle clean test
 *Для запуска сборки необходимо указать значения параметров и нажать кнопку <code><strong>*Собрать*</strong></code>.*
  
 <p align="center">
-  <img src="files/jenkins.png" alt="jenkins" width="800">
+  <img src="files/jenkins.png" alt="jenkins" width="1000">
 </p>
 
 *После выполнения сборки, в блоке <code><strong>*История сборок*</strong></code> напротив номера сборки появится
@@ -59,25 +59,25 @@ gradle clean test
 Report*</strong></code>, кликнув по которому, откроется страница со сформированным отчетом.*
 
 <p align="center">
-  <img src="files/jenkins2.png" alt="jenkins" width="800">
+  <img src="files/jenkins2.png" alt="jenkins" width="1000">
 </p>
 
 ## Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/011-LeshMesh-GraduationWork-UiTests/27/allure/#)
 
 <p align="center">
-  <img src="files/allure.png" alt="allure" width="800">
+  <img src="files/allure.png" alt="allure" width="1000">
 </p>
 
 ### Список тестов c описанием шагов и визуализацией результатов
   
 <p align="center">
-  <img src="files/allure2.png" alt="allure" width="800">
+  <img src="files/allure2.png" alt="allure" width="1000">
 </p>
 
 ## Пример запуска тестов в Browserstack
 
 <p align="center">
-  <img src="files/browserstack.png" alt="telegram" width="400">
+  <img src="files/browserstack.png" alt="telegram" width="1000">
 </p>
 
 ## Пример запуска теста в Selenoid
