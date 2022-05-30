@@ -25,7 +25,7 @@ public class TodoistMobileTests extends TestBase {
         });
         step("Проверяем авторизацию", () ->
             $(AppiumBy.id("com.todoist:id/toolbar")).$(AppiumBy.className("android.widget.TextView"))
-                    .shouldHave(Condition.text("Today")));
+                    .shouldHave(Condition.text("Inbox")));
     }
 
     @Test
